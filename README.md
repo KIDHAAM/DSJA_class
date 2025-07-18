@@ -1,11 +1,5 @@
 # DSJA_class
 SBS_DSJA_3
 
-안녕하시와요. 
 
-저는 김다현이올시다.
-
-오늘은 비가 오는 날이어요.
-
-비가 오는 건 싫지만, 덥지 않은 건 좋아요.
-
+[기사 요약 1]  https://kidhaam.github.io/DSJA_class/news_01
